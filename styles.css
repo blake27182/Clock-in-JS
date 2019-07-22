@@ -1,0 +1,13 @@
+#display{
+	width: 300px;
+	margin: auto;
+	margin-top: 300px;
+	text-align: center;
+}
+p{
+	font-size: 70px;
+	font-family: 'Sunflower', sans-serif;
+}
+#but{
+	text-align: center;
+}
